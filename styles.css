@@ -27,8 +27,6 @@ body{
   background-color: #000;
   position: absolute;
   bottom: 0;
-  border-top-right-radius: 50%;
-  border-top-left-radius: 50%;
 }
 
 .line {
